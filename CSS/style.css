@@ -1601,11 +1601,10 @@
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
-    position: absolute;
-    
     position: fixed;
-    top: 90%;
-    left: 93%;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
 }
 
 .top-down i {
