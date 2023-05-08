@@ -1047,13 +1047,13 @@
 .footer .top .four form {
   display: flex;
   flex-direction: column;
-  padding: 10px;
+  padding: 20px;
 }
 
 .footer .top .four form input {
   font-size: 20px;
   padding: 0 20px;
-  margin: 10px 0;
+  margin: 10px 10p;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -1584,7 +1584,7 @@
     }
 
     .footer .top .four input {
-        width: 95%;
+        width: 80%;
     }
 }
 
