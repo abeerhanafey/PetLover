@@ -1589,6 +1589,9 @@
 }
 
 .top-down {
+  position: fixed;
+    bottom: 40px;
+    right: 20px;
     width: 45px;
     height: 50px;
     background-color: var(--main-color22);
@@ -1601,9 +1604,6 @@
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
-    position: fixed;
-    bottom: 40px;
-    right: 20px;
 }
 
 .top-down i {
