@@ -714,6 +714,10 @@
   align-items: center;
 }
 
+.price .price-card .card3 {
+  border: 1px solid orange;
+}
+
 /* <!-- end price --> */
 /* ------------------------------------------------------------------- */
 
